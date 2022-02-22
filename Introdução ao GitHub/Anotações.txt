@@ -1,0 +1,9 @@
+## Do GitHub para o PC:
+- Copia o link HTTPS ou SSH
+- No Git Bash:
+git clone link
+
+## Do PC para o GitHub:
+git add xxx
+git commit -m "txt"
+git push origin main
